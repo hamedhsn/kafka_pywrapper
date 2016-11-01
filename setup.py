@@ -10,7 +10,7 @@ requirements = [
 setup(
     name='kafka_pywrapper',
     version='1.0.0',
-    description='kafka python wrapper',
+    description='kafka python wrapper - support JSON, AVRO message',
     author='Hamed',
     maintainer='Hamed',
     maintainer_email='hamedhsn@gmail.com',

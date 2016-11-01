@@ -1,2 +1,3 @@
+bson
 pykafka
 avro-python3

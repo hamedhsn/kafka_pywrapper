@@ -9,8 +9,6 @@ from avro import schema
 from avro.io import BinaryDecoder, BinaryEncoder, DatumWriter, DatumReader
 from pykafka.common import OffsetType
 
-__author__ = 'Hamed'
-
 
 class KfkWrapper:
     def __init__(self,
