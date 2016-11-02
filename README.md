@@ -1,4 +1,4 @@
-# Kafka python Wrapper
+# Kafka python Wrapper(Under Development)
 
 This is a wrapper that simplifies using kafka in python. It supports producing and consuming JSON, Avro(soon),
 Parquet(soon) messages in and out of the Kafka.
